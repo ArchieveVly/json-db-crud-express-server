@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kanekivly/json-db-crud-express-server.git"
+    "url": "git+https://github.com/ArchieveVly/json-db-crud-express-server.git"
   },
   "keywords": [
     "node.js",
@@ -17,12 +17,12 @@
     "crud-operation",
     "ghoulCode"
   ],
-  "author": "kaneki vly",
+  "author": "ArchieveVly",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kanekivly/json-db-crud-express-server/issues"
+    "url": "https://github.com/ArchieveVly/json-db-crud-express-server/issues"
   },
-  "homepage": "https://github.com/Kanekivly/json-db-crud-express-server#readme",
+  "homepage": "https://github.com/ArchieveVly/json-db-crud-express-server#readme",
   "dependencies": {
     "express": "^4.19.2"
   }
